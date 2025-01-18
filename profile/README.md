@@ -26,8 +26,11 @@ This repository supports the following areas of study:
 - **Machine Learning**
 - **Cybersecurity**
 - **Web Development**
-- **Data Science**
+- **Games Development**
 - **Emerging Technologies**
+- **Tommorrow's Web**
+- **Mobile App Development**
+- **Databases**
 
 Each module will have its own dedicated folder for better organization and navigation.
 
