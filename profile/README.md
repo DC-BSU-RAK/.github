@@ -64,8 +64,8 @@ All contributions will be reviewed before merging to ensure quality and relevanc
 ## Contact Us
 For any questions or suggestions, feel free to reach out:
 
-- 📧 Email: computing@bsu.rak.edu
-- 🌐 Website: [Bath Spa University RAK Campus](https://www.bathspa.ac.uk)
+- 📧 Email: computing@bathspa.ae
+- 🌐 Website: [Bath Spa University RAK Campus](https://www.bathspa.ac.ae)
 - 🏢 Location: Bath Spa University, Ras Al Khaimah, UAE
 
 ---
